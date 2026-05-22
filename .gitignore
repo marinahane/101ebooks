@@ -1,0 +1,7 @@
+*.log
+*.aux
+*.out
+.DS_Store
+__pycache__
+epub/universal/
+xtch/
